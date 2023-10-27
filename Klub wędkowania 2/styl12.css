@@ -1,0 +1,40 @@
+body {
+	font-family: Garamond;
+}
+
+header, footer {
+	width: 100%;
+	height: 100px;
+	background-color: #3CB371;
+	color: white;
+	float: right;
+	padding: 10px;
+	font-size: 130%;
+	text-align: center;
+}
+#sekcjaobrazek {
+	width: 55%;
+	height: 450px;
+	background-color: #FAEBD7;
+	float: left;
+	font-size: 130%;
+	text-align: center;
+}
+
+#sekcjatekst {
+	width: 45%;
+	height: 450px;
+	background-color: #FAEBD7;
+	float: right;
+	font-size: 130%;
+	text-align: left;
+}
+
+img {
+	padding: 3px;
+	margin: 15px;
+	border: dashed green 2px;
+}
+ol {
+	text-align: left;
+}
